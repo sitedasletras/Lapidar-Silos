@@ -1,10 +1,12 @@
-# Lapidar-Silos
-Bloco multimídia de expansão narrativa do ecossistema Lapidar.
+# Silos Core
 
-O módulo Silos organiza a adaptação das obras literárias processadas
-no sistema Lapidar para formatos sonoros, audiovisuais, musicais e
-gráficos sequenciais, preservando a identidade autoral da obra e a
-espinha dorsal do fluxo editorial.
+Núcleo estrutural do bloco multimídia do sistema Lapidar.
 
-Este repositório representa a camada estrutural responsável pela
-expansão multimodal da obra dentro do sistema.
+O Silos Core define a identidade dos quatro Silos oficiais do ecossistema
+e organiza a base lógica necessária para que a expansão multimodal da obra
+ocorra de forma coerente com a espinha dorsal editorial.
+
+Este módulo não executa produção multimídia diretamente.
+
+Sua função é estruturar, validar e preparar a atuação dos Silos dentro do
+fluxo oficial do sistema.
